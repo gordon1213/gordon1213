@@ -1,9 +1,9 @@
-### Hi there! This is Gordon Chiu!
+## Hi there! This is Gordon Chiu!
 <div>
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=gordon1213.gordon1213"/> <span><img src="https://img.shields.io/github/followers/gordon1213?label=Followers&logo=Github"/></span>
 </div> -->
 
-## 🎓 I'm a graduate with a Bachelor's in Machine Learning from the University of California, San Diego
+### 🎓 I'm a graduate with a Bachelor's in Machine Learning from the University of California, San Diego
 - 🌱 I’m currently a Senior Developer student in Galvanize's Hack Reactor Full-Stack Software Engineering Bootcamp
 - 👯 I’m looking to collaborate on projects about anything. I have a strong interest in working on Health/Biotech and Gaming projects though!
 - 💬 Ask me about anything :)
