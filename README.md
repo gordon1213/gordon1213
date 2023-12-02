@@ -12,13 +12,14 @@
 <br />
 <p align="left">
  <a href="https://www.linkedin.com/in/gordon-chiu" target="_blank" rel="noopener noreferrer"> 
-  <img src="https://skillicons.dev/icons?i=linkedin", alt="Linkedin" height="40" style="vertical-align:top; margin:4px; margin-right:10px">
+ <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' align='left' />
  </a>
  <a href="mailto:gpchiu1213@gmail.com"> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="40" style="vertical-align:top; margin: 4px; margin-left: 10px">
+  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' align='left' />
  </a>
 </p>
-
+<br/>
+ 
 ## 🧰 Languages and Tools:
 <br />
 <p align="left">
@@ -33,9 +34,9 @@
 <a href="https://github-readme-stats.vercel.app/api?username=gordon1213&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=gordon1213&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gordon1213&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gordon1213&hide=php&theme=tokyonight" />
-</a>
+<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gordon1213&hide=php&theme=cobalt">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gordon1213&hide=php&theme=cobalt" />
+</a> -->
 </div>
 
 <!--
