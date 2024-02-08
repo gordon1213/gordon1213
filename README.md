@@ -4,8 +4,8 @@
 </div> -->
 
 ### 🎓 I'm a graduate with a Bachelor's in Machine Learning from the University of California, San Diego
-- 🌱 I’m currently a Senior Developer student in Galvanize's Hack Reactor Full-Stack Software Engineering Bootcamp
-- 👯 I’m looking to collaborate on projects about anything. I have a strong interest in working on Health/Biotech and Gaming projects though!
+- 🌱 I recently completed technical training in Full Stack Software Development and am currently brushing up on data structures and algorithms through online courses! 
+- 👯 I have a strong interest in working on Health/Biotech and Gaming projects!
 - 💬 Ask me about anything :)
 
 ## ✉ Find me on:
