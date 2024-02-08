@@ -27,9 +27,9 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,jquery,react,bootstrap,express,babel,jest,vscode,bash,git,github,ai,linux,aws,mongodb,mysql,nextjs,nodejs,postman,sequelize,webpack" />
   </a>
 </p>
-
+<!--
 <h3>🏆 My Github Stats:</h3>
-
+<!--
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=gordon1213&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=gordon1213&count_private=true&show_icons=true&theme=tokyonight" />
